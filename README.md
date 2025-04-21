@@ -1,6 +1,6 @@
 ## Hi I am Rajarshi
 
-Pursuing Computer Science Engineering with Artificial Intelligence and Machine Learning from JIS College of Engineering 
+I’m Rajarshi Bhowmik, a Computer Science and Engineering student specializing in AI and ML at JIS College of Engineering. Passionate about technology’s potential, I explore AI-driven solutions for real-world challenges, from predictive analytics to NLP. With a strong foundation in programming, data structures, and algorithms, I’m eager to innovate and make an impact
 
 
 ## 🌐 Socials:
